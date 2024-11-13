@@ -16,8 +16,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivak1rl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sivak1rl"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/sivak1rl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivak1rl&&theme=tokyonight" alt="sivak1rl" />
-  </a>
-</p>
